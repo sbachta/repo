@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/repo/repo.iml" filepath="$PROJECT_DIR$/repo/repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/repo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/repo_main.iml" group="repo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/repo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/repo_test.iml" group="repo" />
+    </modules>
+  </component>
+</project>
